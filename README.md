@@ -9,7 +9,7 @@ this microservice is highly scalable and is designed to run as a component of cl
 applications that follow event-driven microservices based architectures. 
 
 ## Maintainers
-- Pedro Guzmán (pedro.andres.guzman@ibm.com) @Pedro-Andres-Guzman
+- Pedro Guzmán (pedrosubvertic.com)
 
 ## Getting Started
 
@@ -295,7 +295,5 @@ which lives in [PEP 20](https://www.python.org/dev/peps/pep-0020) and [The Hitch
 [python]: https://www.python.org/downloads/
 [platform-badge]: https://img.shields.io/badge/platform-osx%20|%20linux-orange.svg
 [travis-status]: https://travis.ibm.com/SoftLayer-SecEng/NATS-EventListener-Template-Python.svg?token=x1ic6HPpNu2MANxqzqHE&branch=master
-[lines-code]: https://sonarqube-seceng.wdc1a.ciocloud.nonprod.intranet.ibm.com/api/project_badges/measure?project=NATS-EventListener-Template-Python&metric=ncloc
-[smells]: https://sonarqube-seceng.wdc1a.ciocloud.nonprod.intranet.ibm.com/api/project_badges/measure?project=NATS-EventListener-Template-Python&metric=code_smells
-[maintainability]: https://sonarqube-seceng.wdc1a.ciocloud.nonprod.intranet.ibm.com/api/project_badges/measure?project=NATS-EventListener-Template-Python&metric=sqale_rating
+
 
